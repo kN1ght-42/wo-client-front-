@@ -1,0 +1,15 @@
+$colorAccent: #b53471;
+$colorWhite: #ffffff;
+$colorBrown: #310c24;
+$colorBlack: #000000;
+$colorAccentDark: #511734;
+
+$colorHDAccent: darken($colorAccent, 20%);
+
+$bx-accent: 0 4px 4px rgba($colorAccent, 0.25);
+
+$bx-16: 0 3px 6px rgba(0, 0, 0, 0.16);
+
+$default-font: "Roboto";
+
+$mobile: 480px;
